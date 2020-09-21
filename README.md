@@ -1,7 +1,5 @@
 # Capture Mortgage+ CRM System
 
-**Github:** https://github.com/dlim28/CaptureMortgage
-
 **Deployment:** https://capture-mortgage-plus.herokuapp.com/
 
 ## Project Description
